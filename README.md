@@ -30,3 +30,8 @@ Camera Controls
  - Spacebar	=		Reset Camera
  - W/A/S/D		=		Move Camera
  - E/Q			=		Zoom Camera in/out
+
+TODO
+----------------
+ - Port to Monogame
+ - Simpler controls
