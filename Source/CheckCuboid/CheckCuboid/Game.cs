@@ -269,7 +269,6 @@ namespace CheckCuboid
             spriteBatch.DrawString(this._obj_font, statusInsideCube, new Vector2(20, 10), Color.Black, 0f, Vector2.Zero, 0.35f, SpriteEffects.None, 0f);
             spriteBatch.DrawString(this._obj_font, statusPointPos, new Vector2(20, 30), Color.Black, 0f, Vector2.Zero, 0.35f, SpriteEffects.None, 0f);
             spriteBatch.DrawString(this._obj_font, statusCubePos, new Vector2(20, 50), Color.Black, 0f, Vector2.Zero, 0.35f, SpriteEffects.None, 0f);
-            spriteBatch.DrawString(this._obj_font, "Made by: Daniel McAssey\nCMPDMCAS - 495652", new Vector2(20, 100), Color.Black, 0f, Vector2.Zero, 0.35f, SpriteEffects.None, 0f);
             spriteBatch.End();
 
             this._obj_graphics.BlendState = BlendState.Additive;
